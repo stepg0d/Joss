@@ -1,0 +1,1 @@
+  int jumlah_prima = 0;
